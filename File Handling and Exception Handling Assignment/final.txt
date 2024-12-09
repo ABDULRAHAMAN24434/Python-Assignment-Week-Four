@@ -1,0 +1,27 @@
+Programming languages are languages uesd to communicate to computers by a programmer
+
+Types of Programming Languages
+Programming languages can be categorized based on their paradigms and usage:
+Imperative Languages
+Functional Languages
+Object-Oriented Languages
+Scripting Languages
+Logic Languages
+Markup Languages
+
+Examples of Popular Programming Languages
+Python
+JavaScript
+Java
+C++
+Ruby
+
+importance of Programming Languages
+Programming languages are crucial for several reasons:
+Software Development
+Automation
+Innovation
+Problem Solving
+Communication
+
+

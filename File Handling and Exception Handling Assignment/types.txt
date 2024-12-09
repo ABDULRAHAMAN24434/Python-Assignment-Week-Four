@@ -1,0 +1,8 @@
+Types of Programming Languages
+Programming languages can be categorized based on their paradigms and usage:
+Imperative Languages
+Functional Languages
+Object-Oriented Languages
+Scripting Languages
+Logic Languages
+Markup Languages
